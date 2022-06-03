@@ -8,4 +8,4 @@ To run the project locally follow the following steps:
 4. Click on File --> Open Folder --> Select the folder which you unzipped.
 5. Click on Run.
 
-This project has a MIT License and you can find that above. Please find a wiki for this page in the wiki section. A test issue has also been created. A recommendation is also added to the wiki page
+This project has a MIT License and you can find that above. Please find a wiki for this page in the wiki section. A test issue has also been created.
